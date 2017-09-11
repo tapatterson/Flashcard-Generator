@@ -19,8 +19,11 @@ function BasicCard(front, back) {
             back: this.back,
             type: "basic",
         };
+
 	};
 }
+
+
 
 //node module to export constructor
 module.exports = BasicCard;
