@@ -1,0 +1,42 @@
+
+	{
+		"type": "BasicCard",
+		"front": "Who was the first President of the U.S.?",
+		"back": "George Washington"
+	},
+
+
+	{
+		"type": "BasicCard",
+		"front": "What color is the sky?",
+		"back": "blue"
+	},
+
+
+	{
+		"type": "BasicCard",
+		"front": "Who has the best coding bootcamp?",
+		"back": "UNC"
+	},
+
+
+	{
+		"type": "ClozeCard",
+		"fullText":"George Washington was the first President.",
+		"cloze": "George Washington"
+	},
+
+
+
+	{
+		"type": "ClozeCard",
+		"fullText":"The sky is blue",
+		"cloze": "blue"
+	},
+
+	{
+		"type": "ClozeCard",
+		"fullText":"UNC has the best coding bootcamp",
+		"cloze": "UNC"
+	}
+
